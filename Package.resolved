@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "changeobserver",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/HumorousGhost/ChangeObserver.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "d95a1f86618023023b754f1798244717979c7d7a"
+      }
+    }
+  ],
+  "version" : 2
+}
